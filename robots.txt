@@ -1,0 +1,8 @@
+User-agent: *
+Allow: */js
+Allow: */libs
+Allow: */images
+Allow: */css
+Allow: */fonts
+
+Sitemap: https://givingtreecharity.org/sitemap.xml
